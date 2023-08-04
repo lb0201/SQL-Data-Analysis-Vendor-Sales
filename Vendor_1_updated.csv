@@ -1,0 +1,92 @@
+﻿ID,Brands,Denomination_types,Denominations,Discount_rates
+1,1-800-PetSupplies,Fixed,"[25, 50]",14.00
+2,Aerie®,Variable,"[0.01, 500]",10.00
+3,Aéropostale,Variable,"[5, 500]",21.00
+4,American Airlines,Fixed,"[100, 250, 500]",15.00
+5,AMC Theatres,Variable,"[3, 100]",2.00
+6,Amtrak,Variable,"[25, 500]",16.00
+7,Applebee's,Variable,"[5, 500]",18.00
+8,Bahama Breeze®,Variable,"[5, 100]",7.00
+10,Bass Pro Shops®,Variable,"[5, 500]",3.00
+11,Bath & Body Works,Variable,"[5, 500]",10.00
+12,Bed Bath & Beyond,Variable,"[1, 500]",9.00
+13,Belk,Variable,"[25, 500]",2.00
+14,Bill's Bar & Burger,Variable,"[10, 500]",7.00
+15,Boston Market,Variable,"[5, 250]",2.00
+16,Buffalo Wild Wings®,Variable,"[5, 250]",12.00
+17,Build-A-Bear Workshop®,Variable,"[5, 500]",19.00
+18,Burger King,Variable,"[5, 1000]",7.00
+19,Cadillac Bar,Variable,"[10, 500]",20.00
+20,Callaway,Fixed,"[50, 100]",19.00
+21,CanvasPop,Fixed,[50],7.00
+22,Carrabba's Italian Grill,Variable,"[5, 500]",4.00
+23,CBS All Access,Fixed,"[25, 50, 100]",17.00
+24,Champs Sports,Variable,"[5, 500]",10.00
+26,Chico's,Variable,"[10, 500]",4.00
+27,The Children's Place,Variable,"[5, 500]",1.00
+28,Chipotle,Variable,"[5, 250]",20.00
+29,Cold Stone Creamery,Variable,"[10, 100]",14.00
+30,Crate & Barrel,Variable,"[25, 500]",20.00
+31,Christmas Tree Shops,Variable,"[5, 500]",9.00
+32,Darden Restaurants,Variable,"[5, 100]",13.00
+34,DSW,Variable,"[5, 500]",11.00
+35,Fairmont Hotels & Resorts,Fixed,"[25, 50, 100]",19.00
+36,Foot Locker®,Variable,"[5, 500]",12.00
+37,Fragrancenet.com,Fixed,"[25, 50]",3.00
+38,GameStop®,Variable,"[5, 500]",17.00
+39,GolfThere – TeeThere,Fixed,"[25, 50, 100]",12.00
+40,Grotto,Variable,"[10, 500]",6.00
+41,Holland America Line,Variable,"[25, 2000]",3.00
+44,Hooters,Variable,"[5, 250]",9.00
+42,Hotels.com®,Variable,"[10, 500]",6.00
+43,IMVU,Fixed,"[10, 25, 50]",19.00
+45,Jiffy Lube®,Variable,"[15, 500]",19.00
+51,Kigso,Fixed,"[5, 10, 15]",17.00
+46,Krispy Kreme® Doughnut Corporation,Variable,"[5, 200]",7.00
+47,Legal Sea Foods,Variable,"[10, 500]",16.00
+48,Lids,Variable,"[5, 500]",18.00
+49,Live Event Card,Fixed,"[25, 50]",4.00
+50,Lobster Gram®,Fixed,"[25, 50, 100]",1.00
+54,Macy's,Variable,"[25, 250]",20.00
+52,Maggiano's Little Italy®,Variable,"[5, 100]",3.00
+53,McCormick & Schmick's,Variable,"[10, 500]",2.00
+55,Microsoft Office 365 Home 1-yr Subscription,Fixed,[99.99],2.00
+56,Microsoft Office 365 Personal 1-yr Subscription,Fixed,[69.99],17.00
+57,NASCAR.com,Variable,"[5, 500]",20.00
+60,Nautica,Variable,"[3, 500]",13.00
+58,NetDragon Universal,Fixed,"[10, 25]",20.00
+59,Nexon Karma Koin,Variable,"[10, 500]",6.00
+61,Nordstrom Rack,Variable,"[5, 500]",6.00
+62,The Oceanaire,Variable,"[10, 500]",2.00
+63,Old Navy,Variable,"[10, 500]",13.00
+65,On The Border Mexican Grill & Cantina,Variable,"[5, 100]",4.00
+67,P.C. Richard & Son,Variable,"[25, 500]",5.00
+68,P.F. Chang's,Variable,"[10, 500]",8.00
+69,KingsIsle Pirate101,Fixed,"[2.5, 5]",9.00
+70,The Popcorn Factory,Variable,"[5, 200]",11.00
+71,Princess Cruises,Variable,"[25, 2000]",11.00
+75,Raffles Hotels & Resorts,Fixed,"[25, 50, 100]",7.00
+72,Razer Gold,Variable,"[10, 500]",17.00
+73,Red Lobster®,Variable,"[5, 100]",20.00
+74,Red Robin®,Variable,"[5, 150]",20.00
+78,REI,Variable,"[10, 500]",4.00
+76,Royal Caribbean,Variable,"[50, 2000]",6.00
+77,Ruby Tuesday,Variable,"[5, 200]",20.00
+79,San Luis Resort,Variable,"[10, 500]",3.00
+80,Shutterfly,Fixed,"[25, 50]",8.00
+82,Sierra Trading Post,Variable,"[2, 500]",11.00
+81,Skip Hop,Variable,"[5, 500]",3.00
+83,Spa & Wellness Gift Card by Spa Week,Variable,"[5, 500]",9.00
+84,Steak 'n Shake,Variable,"[5, 500]",9.00
+85,TGI Fridays™,Variable,"[5, 500]",17.00
+86,Topgolf,Variable,"[25, 500]",2.00
+87,Under Armour®,Variable,"[5, 500]",6.00
+88,Vic & Anthony's,Variable,"[10, 500]",7.00
+89,Wayfair,Variable,"[5, 500]",18.00
+90,Westgate Resorts 2 Night Stay,Fixed,[99],12.00
+91,Wargaming.net World of Tanks,Fixed,[25],13.00
+92,White House Black Market,Variable,"[10, 500]",18.00
+93,Willie G's,Variable,"[10, 500]",8.00
+94,Wine.com,Fixed,"[25, 50, 100, 200]",16.00
+95,Xbox Live 1 Month Gold,Fixed,[9.99],20.00
+96,Xbox Live Gold 3 Months,Fixed,[24.99],12.00

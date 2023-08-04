@@ -1,0 +1,92 @@
+﻿ID,Brands,Denominations,Denomination_types,Discount_rates,Minimum_denomination
+1,1-800-PetSupplies,"25,50",FIXED,6.00,25
+2,Aerie®,.01-500,VARIABLE,14.00,0.01
+3,Aéropostale,5-500,VARIABLE,1.00,5
+4,American Airlines,"100,250,500",FIXED,13.00,100
+5,AMC Theatres,3-100,VARIABLE,19.00,3
+6,Amtrak,25-500,VARIABLE,4.00,25
+7,Applebee's,5-500,VARIABLE,6.00,5
+8,Bahama Breeze®,5-100,VARIABLE,13.00,5
+9,Apple,5-500,VARIABLE,20.00,5
+10,Bass Pro Shops®,5-500,VARIABLE,8.00,5
+11,Bath & Body Works,5-500,VARIABLE,12.00,5
+12,Bed Bath & Beyond,1-500,VARIABLE,16.00,1
+13,Belk,25-500,VARIABLE,8.00,25
+14,Bill's Bar & Burger,10-500,VARIABLE,17.00,10
+15,Boston Market,5-250,VARIABLE,5.00,5
+16,Buffalo Wild Wings®,5-250,VARIABLE,14.00,5
+17,Build-A-Bear Workshop®,5-500,VARIABLE,16.00,5
+18,Burger King,5-1000,VARIABLE,17.00,5
+19,Cadillac Bar,10-500,VARIABLE,20.00,10
+20,Callaway,"50,100",FIXED,11.00,50
+21,CanvasPop,50,FIXED,12.00,50
+22,Carrabba's Italian Grill,5-500,VARIABLE,8.00,5
+23,CBS All Access,"25,50,100",FIXED,8.00,25
+24,Champs Sports,5-500,VARIABLE,9.00,5
+25,The Cheesecake Factory,5-500,VARIABLE,4.00,5
+26,Chico's,10-500,VARIABLE,11.00,10
+27,The Children's Place,5-500,VARIABLE,18.00,5
+28,Chipotle,5-250,VARIABLE,2.00,5
+29,Cold Stone Creamery,10-100,VARIABLE,8.00,10
+30,Crate & Barrel,25-500,VARIABLE,16.00,25
+31,Christmas Tree Shops,5-500,VARIABLE,9.00,5
+32,Darden Restaurants,5-100,VARIABLE,1.00,5
+33,Dunkin' Donuts,5-100,VARIABLE,9.00,5
+34,DSW,5-500,VARIABLE,18.00,5
+35,Fairmont Hotels & Resorts,"25,50,100",FIXED,10.00,25
+36,Foot Locker®,5-500,VARIABLE,12.00,5
+37,Fragrancenet.com,"25,50",FIXED,17.00,25
+38,GameStop®,5-500,VARIABLE,15.00,5
+39,GolfThere – TeeThere,"25,50,100",FIXED,13.00,25
+40,Grotto,10-500,VARIABLE,10.00,10
+41,Holland America Line,25-2000,VARIABLE,14.00,25
+42,Hotels.com®,10-500,VARIABLE,8.00,10
+43,IMVU,"10,25,50",FIXED,9.00,10
+44,Hooters,5-250,VARIABLE,5.00,5
+45,Jiffy Lube®,15-500,VARIABLE,2.00,15
+46,Krispy Kreme® Doughnut Corporation,5-200,VARIABLE,10.00,5
+47,Legal Sea Foods,10-500,VARIABLE,10.00,10
+48,Lids,5-500,VARIABLE,20.00,5
+49,Live Event Card,"25,50",FIXED,17.00,25
+50,Lobster Gram®,"25,50,100",FIXED,1.00,25
+51,Kigso,"5,10",FIXED,20.00,5
+52,Maggiano's Little Italy®,5-100,VARIABLE,18.00,5
+53,McCormick & Schmick's,10-500,VARIABLE,18.00,10
+54,Macy's,"25,50,100,250",FIXED,18.00,25
+55,NASCAR.com,5-500,VARIABLE,3.00,5
+56,NetDragon Universal,"10,25",FIXED,3.00,10
+57,Nexon Karma Koin,10-500,VARIABLE,10.00,10
+58,Nautica,3-500,VARIABLE,15.00,3
+59,Nordstrom Rack,5-500,VARIABLE,15.00,5
+60,The Oceanaire,10-500,VARIABLE,7.00,10
+61,Old Navy,10-500,VARIABLE,7.00,10
+62,Olive Garden,5-100,VARIABLE,10.00,5
+63,On The Border Mexican Grill & Cantina,5-100,VARIABLE,9.00,5
+64,Pottery Barn®,25-500,VARIABLE,5.00,25
+65,P.C. Richard & Son,25-500,VARIABLE,1.00,25
+66,P.F. Chang's,10-500,VARIABLE,14.00,10
+67,KingsIsle Pirate101,"2.5,5",FIXED,17.00,2.5
+68,The Popcorn Factory,5-200,VARIABLE,1.00,5
+69,Princess Cruises,25-2000,VARIABLE,10.00,25
+70,Razer Gold,10-500,VARIABLE,9.00,10
+71,Red Lobster®,5-100,VARIABLE,11.00,5
+72,Red Robin®,5-150,VARIABLE,8.00,5
+73,Raffles Hotels & Resorts,"25,50,100",FIXED,14.00,25
+74,Royal Caribbean,50-2000,VARIABLE,12.00,50
+75,Ruby Tuesday,5-200,VARIABLE,17.00,5
+76,REI,10-500,VARIABLE,16.00,10
+77,San Luis Resort,10-500,VARIABLE,1.00,10
+78,Shutterfly,"25,50",FIXED,1.00,25
+79,Skip Hop,5-500,VARIABLE,12.00,5
+80,Sierra Trading Post,2-500,VARIABLE,14.00,2
+81,Spa & Wellness Gift Card by Spa Week,5-500,VARIABLE,1.00,5
+82,Steak 'n Shake,5-500,VARIABLE,10.00,5
+83,TGI Fridays™,5-500,VARIABLE,7.00,5
+84,Topgolf,25-500,VARIABLE,4.00,25
+85,Under Armour®,5-500,VARIABLE,20.00,5
+86,Vic & Anthony's,10-500,VARIABLE,13.00,10
+87,Wayfair,5-500,VARIABLE,18.00,5
+88,Wargaming.net World of Tanks,25,FIXED,16.00,25
+89,White House Black Market,10-500,VARIABLE,17.00,10
+90,Willie G's,10-500,VARIABLE,18.00,10
+91,Wine.com,"25,50,100,200",FIXED,1.00,25
