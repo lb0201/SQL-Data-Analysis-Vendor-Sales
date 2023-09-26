@@ -24,6 +24,8 @@ Key data analytic skills highlighted in the SQL query project include SQL query 
 - Vendor_1.csv
 - Vendor_1_updated.csv
 - Sales.csv
+- Vendor_Sales.sql - Final SQL file
+
 
 ### Copyright, Authors, Acknowledgements
 
