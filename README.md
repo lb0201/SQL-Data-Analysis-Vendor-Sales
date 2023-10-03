@@ -1,12 +1,12 @@
-### Date created
+## Date created
 
 August 2023
 
-### Project Title
+## Project Title
 
 SQL Vendor Sales Analysis
 
-### Description
+## Description
 
 In this project, I've developed queries from two giftcard vendor datasets (Vendor_1 and Vendor_1_updated) along with a sales dataset. These queries were designed to thoroughly examine the databases and facilitate data comparison to fulfill the client's requirements.
 
@@ -19,12 +19,13 @@ I've focused on answering the following questions:
 
 
 Key data analytic skills highlighted in the SQL query project include SQL query writing, data aggregation, data joins, transformation, window functions, and data interpretation.
-### Files Used
+
+## Files Used
 
 - Vendor_1.csv
 - Vendor_1_updated.csv
 - Sales.csv
-- Vendor_Sales.sql - Final SQL file
+- Vendor_Sales.sql
 
 
 ### Copyright, Authors, Acknowledgements
