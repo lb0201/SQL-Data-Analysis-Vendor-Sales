@@ -18,7 +18,7 @@ I've focused on answering the following questions:
 * Identify total sales by week and most frequently purchased brand for that week from Vendor_1_updated dataset
 
 
-Key data analytic skills highlighted in the SQL query project include SQL query writing, data aggregation, data joins, transformation, window functions, and data interpretation.
+Key data analytic features highlighted in the SQL query project include SQL query writing, data aggregation, data joins, transformation, window functions, and data interpretation.
 
 ## Files 
 
