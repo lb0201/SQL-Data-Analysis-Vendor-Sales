@@ -4,7 +4,7 @@ August 2023
 
 ## Project Title
 
-SQL Vendor Sales Analysis
+SQL - Brand Analysis and Vendor Comparison
 
 ## Description
 
